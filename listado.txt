@@ -1,0 +1,6 @@
+Este es el listado de las personas que deben crear un github:
+Felipe Ortiz
+Jose Dario Gomez
+Nicolas Pimentel
+Sergio Otalvaro
+
